@@ -1,4 +1,4 @@
-### Hi ,I'M YAMUNA there 👋
+### HI ,I'M YAMUNA 👋
 
 <!--
 **Yamunachowdary14/Yamunachowdary14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
