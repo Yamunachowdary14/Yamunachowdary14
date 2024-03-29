@@ -21,7 +21,6 @@ Here are some ideas to get you started:-->
 
 ⚡ Fun fact: I enjoy exploring nature trails and capturing moments through photography when I'm not immersed in coding adventures!
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align = "right" alt="coding" width="400" src="![image](https://github.com/Yamunachowdary14/Yamunachowdary14/assets/142091928/8347072e-1e55-4f6d-bc9b-9a92a242feab)"
 >
