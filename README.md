@@ -1,4 +1,4 @@
-Sure, here is your GitHub README with a few adjustments for clarity and consistency:
+Sure, here is the adjusted GitHub README with the necessary corrections:
 
 ---
 
@@ -26,7 +26,7 @@ Sure, here is your GitHub README with a few adjustments for clarity and consiste
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamunachowdary14&label=Profile%20views&color=0e75b6&style=flat" alt="yamunachowdary14" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
