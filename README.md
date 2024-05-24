@@ -55,5 +55,3 @@ Sure, here is your GitHub README with a few adjustments for clarity and consiste
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamunachowdary14&" alt="GitHub Streak" /></p>
 
 ---
-
-This updated version ensures consistency in linking and language while maintaining your original content and structure.
