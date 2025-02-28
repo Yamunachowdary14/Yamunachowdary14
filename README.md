@@ -14,7 +14,7 @@ Sure, here is the adjusted GitHub README with the necessary corrections:
 
 💬 Ask me about my journey into the world of programming, my favorite coding challenges, or any tech-related topic you're curious about!
 
-📫 How to reach me: Connect with me on [LinkedIn](www.linkedin.com/in/yamuna-kambhampati) or drop me a message on [GitHub](https://github.com/Yamunachowdary14).
+📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/yamuna-kambhampati/) or drop me a message on [GitHub](https://github.com/Yamunachowdary14).
 
 😄 Pronouns: She/Her
 
